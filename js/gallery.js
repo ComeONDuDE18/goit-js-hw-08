@@ -101,6 +101,6 @@ galleryContainer.addEventListener('click', (event) => {
       <img src="${largeImageURL}" width="800" height="600">
     `);
   
-    instance.show();
+    instance.show(); 
   });
   
